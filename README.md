@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hhttps://files.catbox.moe/sx5y7o.jpg" alt="FAIZAN-F MD" width="1000"/>
+  <img src="[hhttps://files.catbox.moe/sx5y7o.jpg](https://image2url.com/images/1764942601032-3a96a0f0-a825-4dfb-863c-89b48b968b84.jpg)" alt="FAIZAN-F MD" width="1000"/>
 </p>
 
 <h1 align="center">
@@ -25,7 +25,7 @@
 ## 📱 Humse Raabta Karen (Connect With Us)
 
 <p align="center">
-  <a href="https://github.com/faizanmd03463646953-a11y/FAIZAN-F-MD">
+  <a href="https://github.com/asvfskadxxc-png/FAIZAN-F-MD">
     <img src="https://img.shields.io/badge/GitHub%20Repository-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029VbBrwbOHltYA4bNx0Q2u">
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://wa.me/923222818553">
-    <img src="https://img.shields.io/badge/Owner%20Contact-923487398345-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Owner%20Contact-923222818553-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
