@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[hhttps://files.catbox.moe/sx5y7o.jpg](https://image2url.com/images/1764942601032-3a96a0f0-a825-4dfb-863c-89b48b968b84.jpg)" alt="FAIZAN-F MD" width="1000"/>
+  <img src="https://image2url.com/images/1764942601032-3a96a0f0-a825-4dfb-863c-89b48b968b84.jpg" alt="FAIZAN-F MD" width="1000"/>
 </p>
 
 <h1 align="center">
