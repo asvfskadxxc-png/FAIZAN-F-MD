@@ -1,8 +1,13 @@
+
 // Repaired full index.js (with crypto fix) (Baileys MD Compatible)
 // -------------------------------------------------------
 
 // FIX: Import crypto for Render environment
 const crypto = require("crypto");
+
+// GLOBAL FIX: Make crypto available everywhere (Render compatibility)
+global.crypto = crypto;
+("crypto");
 
 const {
     default: makeWASocket,
